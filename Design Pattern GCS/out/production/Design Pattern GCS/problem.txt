@@ -1,0 +1,2 @@
+When I try to implement strategy design pattern, I had hard time thinking what kind of behaviour I can change on run time. Seeing some real implementation example of strategy pattern,
+I get to conclusion that I can calculate total garbage collected and change its behaviour depending upon daily, monthly and weekly garbage collection.
